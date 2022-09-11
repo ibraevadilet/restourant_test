@@ -1,0 +1,12 @@
+{
+    "catchExTimeOfProcessing":"Привышено время обработки запроса.\nПовторите позднее",
+    "catchExNoInternet":"Нет интернет соеденения",
+    "catchExRequestDenied":"Запрос отклонен",
+    "catchExLoginNotFound":"Данный логин не найден",
+    "catchExSystemError":"Произошла системная ошибка",
+    "catchExSessionExpired":"Ваша сессия истекла. Просьба авторизоваться повторно!",
+    "ribbon":"Лента",
+    "map":"Карта",
+    "favorite":"Избранные",
+    "profile":"Профиль"
+}
